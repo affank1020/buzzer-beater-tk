@@ -34,36 +34,12 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#future">Future</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![TkinterGame](https://github.com/user-attachments/assets/d1403acf-b941-45c4-a68e-c9da02317130)
 
-I built this project for an assigment at univerity, where the aim was to create a game using the Tkinter interface in Python. This is generally used for building Graphical User Interfaces (GUIs) so it didn't support many of the fundamental features of game development, such as gravity and collisions. Therefore, I had to build my own 2D physics engine with collisions from scratch for this project.
-
-To protect against academic malpractice, I have not included the code for this project in this repository. If you would like to see my code, you can email me at affank1020@gmail.com.
+I built this project for an assigment at univerity, so I'm not sharing any code to avoid any academic malpractice allegations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,9 +59,6 @@ To protect against academic malpractice, I have not included the code for this p
 ## Getting Started
 
 To run the game, just download all the files in this repository and ensure that the Images folder and the data.json file are both in the same directory as the .exe file. This should work without requiring any dependencies.
-
-The game also features a simple local account management system, which is handled within the data.json. No data is collected by the program and any game-related information (high scores, badges) are only stored locally. To create an account, just click on the button on the bottom right of the main menu and change account. Just typing a new name should create a new account as long as there isn't already one with the same name on the system.
-
 
 
 <!-- USAGE EXAMPLES -->
