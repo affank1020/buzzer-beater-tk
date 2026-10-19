@@ -82,7 +82,7 @@ To protect against academic malpractice, I have not included the code for this p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To run the game, just download all the files in this repository and ensure that the Images folder and the data.json file are both in the same directory as the .exe file. This should work without requiring any dependencies, but please let me know if something doesn't work as expected.
+To run the game, just download all the files in this repository and ensure that the Images folder and the data.json file are both in the same directory as the .exe file. This should work without requiring any dependencies.
 
 The game also features a simple local account management system, which is handled within the data.json. No data is collected by the program and any game-related information (high scores, badges) are only stored locally. To create an account, just click on the button on the bottom right of the main menu and change account. Just typing a new name should create a new account as long as there isn't already one with the same name on the system.
 
@@ -96,24 +96,3 @@ The game also features a simple local account management system, which is handle
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Future
-
-In it's current state, this project is not scalable, since using Tkinter already created plenty of unnecessary steps in it's development.
-
-However, I have really enjoyed planning and designing the game and I feel the idea has a lot of potential. In future, I hope to return back to this concept but without the constraints of Tkinter.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Affan -  affank1020@gmail.com
-
-Project Link: [https://github.com/affank1020/buzzer-beater-tk](https://github.com/affank1020/buzzer-beater-tk)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
